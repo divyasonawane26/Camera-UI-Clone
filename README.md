@@ -1,6 +1,4 @@
 # CameraClone
-
-# Camera Clone 
 A simple camera app sidebar UI built using **HTML** and **CSS**.
 
 ## Features
